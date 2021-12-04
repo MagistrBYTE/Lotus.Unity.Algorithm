@@ -16,8 +16,8 @@
 
     "dependencies":
     {
-        "com.magistrbyte.lotus.unity.core": "https://github.com/MagistrBYTE/Lotus.Unity.Core.git",
-        "com.magistrbyte.lotus.unity.math": "https://github.com/MagistrBYTE/Lotus.Unity.Math.git"
+        "com.magistrbyte.lotus.unity.core": "1.0.0",
+        "com.magistrbyte.lotus.unity.math": "1.0.0"
     },
 
     "type": "library"
