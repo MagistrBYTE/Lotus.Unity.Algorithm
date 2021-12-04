@@ -1,0 +1,17 @@
+{
+    "name": "Lotus.Unity.Algorithm",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0cf8b5180e88cd746bfd0eec8ee8d629",
+        "GUID:16233bdd0d7719849b7a001756220401"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,24 @@
+{
+    "name": "com.magistrbyte.lotus.unity.algorithm",
+    "version": "1.0.0",
+    "displayName": "Lotus.Unity.Algorithm",
+    "description": "Lotus Algorithm library for Unity",
+    "unity": "2019.1",
+    "keywords":
+    [
+        "Algorithm"
+    ],
+    "author":
+    {
+        "name": "MagistrBYTE",
+        "email": "dementevds@gmail.com"
+    },
+
+    "dependencies":
+    {
+        "com.magistrbyte.lotus.unity.core": "https://github.com/MagistrBYTE/Lotus.Unity.Core.git",
+        "com.magistrbyte.lotus.unity.math": "https://github.com/MagistrBYTE/Lotus.Unity.Math.git"
+    },
+
+    "type": "library"
+}
