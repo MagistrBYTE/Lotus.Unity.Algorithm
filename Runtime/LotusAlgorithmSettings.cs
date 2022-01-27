@@ -31,11 +31,6 @@ namespace Lotus
 		{
 #if UNITY_2017_1_OR_NEWER
 			/// <summary>
-			/// Относительный путь директории исходного кода модуля алгоритмов
-			/// </summary>
-			public const String SourcePath = XEditorSettings.SourceBasisPath + "Algorithm/";
-
-			/// <summary>
 			/// Путь в размещении меню редактора модуля алгоритмов (для упорядочивания)
 			/// </summary>
 			public const String MenuPath = XEditorSettings.MenuPlace + "Algorithm/";

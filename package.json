@@ -1,6 +1,6 @@
 {
     "name": "com.magistrbyte.lotus.unity.algorithm",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "displayName": "Lotus.Unity.Algorithm",
     "description": "Lotus Algorithm library for Unity",
     "unity": "2019.1",
@@ -16,8 +16,8 @@
 
     "dependencies":
     {
-        "com.magistrbyte.lotus.unity.core": "1.0.0",
-        "com.magistrbyte.lotus.unity.math": "1.0.0"
+        "com.magistrbyte.lotus.unity.core": "1.2.0",
+        "com.magistrbyte.lotus.unity.math": "1.2.0"
     },
 
     "type": "library"
